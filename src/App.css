@@ -135,10 +135,7 @@
   .app__wrapper_img-reverse {
     margin: 0 0 5rem 0;
   }
-
-  .app__wrapper_img img {
-    width: 100%;
-  }
+  
 }
 
 @media screen and (max-width: 850px) {
